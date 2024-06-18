@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://DPKamalnayanPortfolio.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Jun 2024 16:45:12 +0530</lastBuildDate><atom:link href="https://DPKamalnayanPortfolio.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>https://DPKamalnayanPortfolio.github.io/posts/introduction/</link>
+      <pubDate>Tue, 18 Jun 2024 16:45:12 +0530</pubDate>
+      <guid>https://DPKamalnayanPortfolio.github.io/posts/introduction/</guid><description>&lt;no value&gt;</description></item>
+  </channel>
+</rss>
